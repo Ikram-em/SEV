@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\VIDEOJUEGOS\\INCLUDE\\SDL_TTF.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\GameLayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Text.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\GameLayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Layer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyProjectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyPadre.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyB.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Audio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Background.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Layer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Audio.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyPadre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\EnemyProjectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47FB16C5-792E-4E63-8B3B-714D6B85E85F}|NavesL4\\NavesL4.vcxproj|solutionrelative:NavesL4\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SDL_ttf.h",
+              "DocumentMoniker": "C:\\videojuegos\\include\\SDL_ttf.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\videojuegos\\include\\SDL_ttf.h",
+              "ToolTip": "C:\\videojuegos\\include\\SDL_ttf.h",
+              "RelativeToolTip": "..\\..\\..\\..\\videojuegos\\include\\SDL_ttf.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-04T00:53:14.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Text.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Text.h",
+              "RelativeDocumentMoniker": "NavesL4\\Text.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Text.h",
+              "RelativeToolTip": "NavesL4\\Text.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.h",
+              "RelativeDocumentMoniker": "NavesL4\\Player.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.h",
+              "RelativeToolTip": "NavesL4\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:24.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Background.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.h",
+              "RelativeDocumentMoniker": "NavesL4\\Background.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.h",
+              "RelativeToolTip": "NavesL4\\Background.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:23.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.h",
+              "RelativeDocumentMoniker": "NavesL4\\Actor.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.h",
+              "RelativeToolTip": "NavesL4\\Actor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.h",
+              "RelativeDocumentMoniker": "NavesL4\\Projectile.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.h",
+              "RelativeToolTip": "NavesL4\\Projectile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameLayer.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.h",
+              "RelativeDocumentMoniker": "NavesL4\\GameLayer.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.h",
+              "RelativeToolTip": "NavesL4\\GameLayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:29.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Actor.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Actor.cpp",
+              "RelativeToolTip": "NavesL4\\Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:09.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Main.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Main.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Main.cpp",
+              "RelativeToolTip": "NavesL4\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:44:37.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Layer.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.h",
+              "RelativeDocumentMoniker": "NavesL4\\Layer.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.h",
+              "RelativeToolTip": "NavesL4\\Layer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:29.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.h",
+              "RelativeDocumentMoniker": "NavesL4\\Game.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.h",
+              "RelativeToolTip": "NavesL4\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:20.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameLayer.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\GameLayer.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\GameLayer.cpp",
+              "RelativeToolTip": "NavesL4\\GameLayer.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:45:00.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyProjectile.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.h",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyProjectile.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.h",
+              "RelativeToolTip": "NavesL4\\EnemyProjectile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:19.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyPadre.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.h",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyPadre.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.h",
+              "RelativeToolTip": "NavesL4\\EnemyPadre.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:18.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EnemyB.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.h",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyB.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.h",
+              "RelativeToolTip": "NavesL4\\EnemyB.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:18.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyA.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.h",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyA.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.h",
+              "RelativeToolTip": "NavesL4\\EnemyA.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Audio.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.h",
+              "RelativeDocumentMoniker": "NavesL4\\Audio.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.h",
+              "RelativeToolTip": "NavesL4\\Audio.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Animation.h",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.h",
+              "RelativeDocumentMoniker": "NavesL4\\Animation.h",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.h",
+              "RelativeToolTip": "NavesL4\\Animation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-03T09:46:16.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Background.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Background.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Background.cpp",
+              "RelativeToolTip": "NavesL4\\Background.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:07.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyA.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyA.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyA.cpp",
+              "RelativeToolTip": "NavesL4\\EnemyA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyB.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyB.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyB.cpp",
+              "RelativeToolTip": "NavesL4\\EnemyB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:05.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Player.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Player.cpp",
+              "RelativeToolTip": "NavesL4\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:04.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Projectile.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Projectile.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Projectile.cpp",
+              "RelativeToolTip": "NavesL4\\Projectile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:03.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Layer.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Layer.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Layer.cpp",
+              "RelativeToolTip": "NavesL4\\Layer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Animation.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Animation.cpp",
+              "RelativeToolTip": "NavesL4\\Animation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:46:00.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Audio.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Audio.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Audio.cpp",
+              "RelativeToolTip": "NavesL4\\Audio.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:45:59.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyPadre.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyPadre.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyPadre.cpp",
+              "RelativeToolTip": "NavesL4\\EnemyPadre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:45:58.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnemyProjectile.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\EnemyProjectile.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\EnemyProjectile.cpp",
+              "RelativeToolTip": "NavesL4\\EnemyProjectile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:45:57.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.cpp",
+              "RelativeDocumentMoniker": "NavesL4\\Game.cpp",
+              "ToolTip": "C:\\Users\\Ikraam\\Desktop\\NavesL4-sol\\NavesL4\\Game.cpp",
+              "RelativeToolTip": "NavesL4\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T09:45:56.648Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

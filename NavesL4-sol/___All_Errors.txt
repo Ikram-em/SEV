@@ -1,0 +1,5 @@
+CorrelationId: a8481051-36af-45a4-90e4-fd3302a3024c
+UTC DateTime: 01/22/2026 11:42:43
+
+The following file/folder has not been downloaded
+0. NavesL4-sol/NavesL4/x64/Debug/NavesL4.tlog/unsuccessfulbuild
